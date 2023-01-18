@@ -12,8 +12,10 @@
 #### I am learning to work with:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-Past few years I have been working with robots (a lot). Most of my working life I've been doing projects for AEC industry.
-Recently I have been doing a lot more computer vision related stuff. 
+Fun facts:
+ - Past few years I have been working with robots (a lot). 
+ - Most of my working life I've been doing projects for AEC industry.
+ - Recently I have been doing a lot more computer vision related stuff. 
 
 <!--
 **mariarzv/mariarzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
